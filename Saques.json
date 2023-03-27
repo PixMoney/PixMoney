@@ -1,5 +1,5 @@
 /*
-exemplo: Se saques estiver liberado "true".
-Se saques não estiver liberado "false".
+exemplo: Se saques estiver liberado = true.
+Se saques não estiver liberado  = false.
 */
-{"saques":"true","aviso":"ESTAMOS REALIZANDO OS PAGAMENTOS, SERÁ LIBERADO NO DIA 01/05/2023."}
+{"saques":true,"aviso":"ESTAMOS REALIZANDO OS PAGAMENTOS, SERÁ LIBERADO NO DIA 01/05/2023."}
