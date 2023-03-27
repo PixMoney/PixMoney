@@ -2,4 +2,4 @@
 exemplo: Se saques estiver liberado = true.
 Se saques não estiver liberado  = false.
 */
-{"saques":false,"aviso":"ESTAMOS REALIZANDO OS PAGAMENTOS, SERÁ LIBERADO NO DIA ??/??/2023."}
+{"saques":true,"aviso":"ESTAMOS REALIZANDO OS PAGAMENTOS, SERÁ LIBERADO NO DIA ??/??/2023."}
